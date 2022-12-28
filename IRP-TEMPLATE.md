@@ -506,10 +506,10 @@ Update Detection Rules in:
 ## References
 
 This Playbook was built using the following references:  
-[https://www.dfir.training/index.php?option=com_jreviews&format=ajax&url=media/download&m=14tt1&1600804844570]
-[https://www.gov.scot/publications/cyber-resilience-incident-management/]
-[https://github.com/certsocietegenerale/IRM/tree/master/EN]
-[https://www.incidentresponse.com/playbooks/]
-[https://ayehu.com/cyber-security-incident-response-automation/top-5-cyber-security-incident-response-playbooks/]
-[https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-61r2.pdf]
-[https://gitlab.com/syntax-ir/playbooks/]
+'https://www.dfir.training/index.php?option=com_jreviews&format=ajax&url=media/download&m=14tt1&1600804844570'
+'https://www.gov.scot/publications/cyber-resilience-incident-management/'
+'https://github.com/certsocietegenerale/IRM/tree/master/EN'
+'https://www.incidentresponse.com/playbooks/'
+'https://ayehu.com/cyber-security-incident-response-automation/top-5-cyber-security-incident-response-playbooks/'
+'https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-61r2.pdf'
+'https://gitlab.com/syntax-ir/playbooks/'
